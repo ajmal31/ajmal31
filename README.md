@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hxNTQ4YnBtcnF3MjNkeDk0bHgyd2d6ZjFoMDU3b291aW02ZzU4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jzuSsejVh8EYRfdOTz/giphy.gif)" width="100"/>
 </div>
 <!--
 **ajmal31/ajmal31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
