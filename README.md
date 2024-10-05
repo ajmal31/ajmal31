@@ -12,7 +12,7 @@
 </h1>
 </div>
   <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RmdXV1aXkxbXR4eW9xb213ZTFlZnBua3pjZGFnc3RvYTN5ZTUwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tArwEDuSv1MqSzBLJb/giphy.gif" width="500" height="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RmdXV1aXkxbXR4eW9xb213ZTFlZnBua3pjZGFnc3RvYTN5ZTUwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tArwEDuSv1MqSzBLJb/giphy.gif" width="400" height="300"/>
 </div>
 <!--
 **ajmal31/ajmal31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
