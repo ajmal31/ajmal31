@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hxNTQ4YnBtcnF3MjNkeDk0bHgyd2d6ZjFoMDU3b291aW02ZzU4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jzuSsejVh8EYRfdOTz/giphy.gif" width="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hxNTQ4YnBtcnF3MjNkeDk0bHgyd2d6ZjFoMDU3b291aW02ZzU4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jzuSsejVh8EYRfdOTz/giphy.gif" width="300"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/muhammed-ajmal-aa762123b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
