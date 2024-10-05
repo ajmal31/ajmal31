@@ -16,7 +16,7 @@
 </div>
 <!--
 **ajmal31/ajmal31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
+<!--- 🤔 I’m looking for help with ...-->
 ---
 
 ### :woman_technologist: About Me :
@@ -25,7 +25,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m currently working on Enhancing my expertise in full stack development
 - 🌱 I'm currently diving deep into building Chrome extensions and core fundamentals of Node.js
 - 👯 I'm looking to collaborate on meaningful and impactful projects.
-<!--- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about Tech, entrepreunership, starups.
 - 📫 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-ajmal-aa762123b/)
 - 😄 Pronouns: He/Him.
