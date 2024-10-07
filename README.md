@@ -27,7 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🌱 I'm currently diving deep into building Chrome extensions and core fundamentals of Node.js
 - 👯 I'm looking to collaborate on meaningful and impactful projects.
 - 💬 Ask me about Tech, entrepreunership, starups.
-- 📫 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-ajmal-aa762123b/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-ajmal-aa762123b/)
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love tackling challenges that lead to the satisfying 'aha' moment
 ---
