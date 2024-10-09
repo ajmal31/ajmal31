@@ -78,6 +78,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :fire: My Stats :
+### :fire: My Status :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ajmal31&theme=dark&background=000000)](https://git.io/streak-stats)
