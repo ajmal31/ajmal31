@@ -4,9 +4,9 @@
   <a href="https://www.linkedin.com/in/muhammed-ajmal-aa762123b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<a target="_blank" href="https://www.instagram.com/ary.clenio/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+ <a href="https://www.instagram.com/ajl._____/">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram Badge"/>
+  </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=ajmal31&style=flat-square&color=blue" alt=""/>
   <h1>
