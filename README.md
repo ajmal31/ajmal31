@@ -4,8 +4,8 @@
   <a href="https://www.linkedin.com/in/muhammed-ajmal-aa762123b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+<a target="_blank" href="https://www.instagram.com/ary.clenio/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=ajmal31&style=flat-square&color=blue" alt=""/>
