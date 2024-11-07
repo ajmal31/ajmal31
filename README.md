@@ -7,7 +7,7 @@
  <a href="https://www.instagram.com/ajl._____/"> 
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram Badge"/>
   </a>
-  </div>
+  </div> 
   <img src="https://komarev.com/ghpvc/?username=ajmal31&style=flat-square&color=blue" alt=""/> 
   <h1>
   Hey there
